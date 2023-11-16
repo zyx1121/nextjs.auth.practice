@@ -1,15 +1,15 @@
 # Google 第三方登入實作
 
+在 Next.js 網頁應用中使用 Prisma 與 NextAuth 實作 Google 第三方登入
+
 所需工具程式
 
-- Next.js
-- Prisma
-- NextAuth
-- PlantScale
+- Next.js: React 框架
+- Prisma: 資料庫存取
+- NextAuth: 帳號驗證
+- PlantScale: 資料庫
 
-## 一、建立專案
-
-一款超好用的 React 框架
+## 建立專案
 
 輸入指令創建專案
 
